@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-6-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--17-yellow)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-8-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
 Personal progress tracker for [PortSwigger Web Security Academy](https://portswigger.net/web-security).
@@ -14,9 +14,9 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Tier         | Solved | Total 
 |--------------|--------|-------
 | 🟢 Apprentice  | 2      | 61    
-| 🟡 Practitioner| 4      | 174  
+| 🟡 Practitioner| 6      | 174  
 | 🔴 Expert      | 0      | 39    
-| **Total**    | **6**  | **274**
+| **Total**    | **8**  | **274**
 
 ---
 
@@ -24,7 +24,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 
 | Category                    | Solved | Total |
 |-----------------------------|--------|-------|
-| SQL Injection               | 6      | 18    |
+| SQL Injection               | 8      | 18    |
 | Authentication              | 0      | 14    |
 | Access Control              | 0      | 13    |
 | Path Traversal              | 0      | 6     |
@@ -80,6 +80,9 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 3  | 2026-05-17 |  SQL Injection      |   SQL injection UNION attack, determining the number of columns returned by the query        |   🟡 Practitioner         | —       |
 | 4  | 2026-05-17 |  SQL Injection      |   SQL injection UNION attack, finding a column containing text        |   🟡 Practitioner         | —       |
 | 5  | 2026-05-17 |  SQL Injection      |   SQL injection UNION attack, retrieving data from other tables        |   🟡 Practitioner        | —       |
+| 6  | 2026-05-17 |  SQL Injection      |   SQL injection UNION attack, retrieving multiple values in a single column       |   🟡 Practitioner        | —       |
+| 7  | 2026-05-19 |  SQL Injection      |   Blind SQL injection with conditional responses       |   🟡 Practitioner        | —       |
+| 8  | 2026-05-19 |  SQL Injection      |   Blind SQL injection with conditional errors        |   🟡 Practitioner        | —       |
 
 ---
 
