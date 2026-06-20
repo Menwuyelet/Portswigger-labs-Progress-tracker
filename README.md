@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-8-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19-yellow)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-11-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--20-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
 Personal progress tracker for [PortSwigger Web Security Academy](https://portswigger.net/web-security).
@@ -14,9 +14,9 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Tier         | Solved | Total 
 |--------------|--------|-------
 | 🟢 Apprentice  | 2      | 61    
-| 🟡 Practitioner| 6      | 174  
+| 🟡 Practitioner| 9      | 174  
 | 🔴 Expert      | 0      | 39    
-| **Total**    | **8**  | **274**
+| **Total**    | **11**  | **274**
 
 ---
 
@@ -24,7 +24,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 
 | Category                    | Solved | Total |
 |-----------------------------|--------|-------|
-| SQL Injection               | 8      | 18    |
+| SQL Injection               | 11      | 18    |
 | Authentication              | 0      | 14    |
 | Access Control              | 0      | 13    |
 | Path Traversal              | 0      | 6     |
@@ -83,7 +83,9 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 6  | 2026-05-17 |  SQL Injection      |   SQL injection UNION attack, retrieving multiple values in a single column       |   🟡 Practitioner        | —       |
 | 7  | 2026-05-19 |  SQL Injection      |   Blind SQL injection with conditional responses       |   🟡 Practitioner        | —       |
 | 8  | 2026-05-19 |  SQL Injection      |   Blind SQL injection with conditional errors        |   🟡 Practitioner        | —       |
-
+| 9  | 2026-05-20 |  SQL Injection      |   Visible error-based SQL injection        |   🟡 Practitioner        | —       |
+| 10  | 2026-05-20 |  SQL Injection      |   Blind SQL injection with time delays        |   🟡 Practitioner        | —       |
+| 11  | 2026-05-20 |  SQL Injection      |   Blind SQL injection with time delays and information retrieval        |   🟡 Practitioner        | —       |
 ---
 
 ## Notes & Lessons Learned
