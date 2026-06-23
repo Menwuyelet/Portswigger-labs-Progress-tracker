@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-11-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--20-yellow)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-13-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--23-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
 Personal progress tracker for [PortSwigger Web Security Academy](https://portswigger.net/web-security).
@@ -13,10 +13,10 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 
 | Tier         | Solved | Total 
 |--------------|--------|-------
-| 🟢 Apprentice  | 2      | 61    
-| 🟡 Practitioner| 9      | 174  
+| 🟢 Apprentice  | 3      | 61    
+| 🟡 Practitioner| 10      | 174  
 | 🔴 Expert      | 0      | 39    
-| **Total**    | **11**  | **274**
+| **Total**    | **13**  | **274**
 
 ---
 
@@ -25,7 +25,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Category                    | Solved | Total |
 |-----------------------------|--------|-------|
 | SQL Injection               | 11      | 18    |
-| Authentication              | 0      | 14    |
+| Authentication              | 2      | 14    |
 | Access Control              | 0      | 13    |
 | Path Traversal              | 0      | 6     |
 | Command Injection           | 0      | 5     |
@@ -86,6 +86,8 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 9  | 2026-05-20 |  SQL Injection      |   Visible error-based SQL injection        |   🟡 Practitioner        | —       |
 | 10  | 2026-05-20 |  SQL Injection      |   Blind SQL injection with time delays        |   🟡 Practitioner        | —       |
 | 11  | 2026-05-20 |  SQL Injection      |   Blind SQL injection with time delays and information retrieval        |   🟡 Practitioner        | —       |
+| 12  | 2026-05-23 |  Authentication     |   Username enumeration via different responses        |   🟢 Apprentice        | —       |
+| 13  | 2026-05-23 |  Authentication     |   Username enumeration via subtly different responses        |   🟡 Practitioner        | —       |
 ---
 
 ## Notes & Lessons Learned
