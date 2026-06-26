@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-15-blue)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-16-blue)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--24-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
@@ -14,9 +14,9 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Tier         | Solved | Total 
 |--------------|--------|-------
 | 🟢 Apprentice  | 3      | 61    
-| 🟡 Practitioner| 12      | 174  
+| 🟡 Practitioner| 13      | 174  
 | 🔴 Expert      | 0      | 39    
-| **Total**    | **15**  | **274**
+| **Total**    | **16**  | **274**
 
 ---
 
@@ -24,8 +24,8 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 
 | Category                    | Solved | Total |
 |-----------------------------|--------|-------|
-| SQL Injection               | 11      | 18    |
-| Authentication              | 3      | 14    |
+| SQL Injection               | 11     | 18    |
+| Authentication              | 5      | 14    |
 | Access Control              | 0      | 13    |
 | Path Traversal              | 0      | 6     |
 | Command Injection           | 0      | 5     |
@@ -90,6 +90,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 13  | 2026-05-23 |  Authentication     |   Username enumeration via subtly different responses        |   🟡 Practitioner        | —       |
 | 14  | 2026-05-24 |  Authentication     |   Username enumeration via response timing        |   🟡 Practitioner        | —       |
 | 15  | 2026-05-24 |  Authentication     |   Broken brute-force protection, IP block        |   🟡 Practitioner        | —       |
+| 16  | 2026-05-26 |  Authentication     |   Username enumeration via account lock      |   🟡 Practitioner        | —       |
 ---
 
 ## Notes & Lessons Learned
