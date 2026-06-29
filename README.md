@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-16-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--24-yellow)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-17-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--29-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
 Personal progress tracker for [PortSwigger Web Security Academy](https://portswigger.net/web-security).
@@ -15,8 +15,8 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 |--------------|--------|-------
 | 🟢 Apprentice  | 3      | 61    
 | 🟡 Practitioner| 13      | 174  
-| 🔴 Expert      | 0      | 39    
-| **Total**    | **16**  | **274**
+| 🔴 Expert      | 1      | 39    
+| **Total**    | **17**  | **274**
 
 ---
 
@@ -25,7 +25,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Category                    | Solved | Total |
 |-----------------------------|--------|-------|
 | SQL Injection               | 11     | 18    |
-| Authentication              | 5      | 14    |
+| Authentication              | 6      | 14    |
 | Access Control              | 0      | 13    |
 | Path Traversal              | 0      | 6     |
 | Command Injection           | 0      | 5     |
@@ -91,6 +91,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 14  | 2026-05-24 |  Authentication     |   Username enumeration via response timing        |   🟡 Practitioner        | —       |
 | 15  | 2026-05-24 |  Authentication     |   Broken brute-force protection, IP block        |   🟡 Practitioner        | —       |
 | 16  | 2026-05-26 |  Authentication     |   Username enumeration via account lock      |   🟡 Practitioner        | —       |
+| 17  | 2026-05-29 |  Authentication     |   Broken brute-force protection, multiple credentials per request     |   🔴 Expert       | —       |
 ---
 
 ## Notes & Lessons Learned
