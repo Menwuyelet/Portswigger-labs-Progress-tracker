@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-20-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--06-yellow)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-23-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
 Personal progress tracker for [PortSwigger Web Security Academy](https://portswigger.net/web-security).
@@ -14,9 +14,9 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Tier         | Solved | Total 
 |--------------|--------|-------
 | 🟢 Apprentice  | 4      | 61    
-| 🟡 Practitioner| 15      | 174  
+| 🟡 Practitioner| 18      | 174  
 | 🔴 Expert      | 1      | 39    
-| **Total**    | **20**  | **274**
+| **Total**    | **23**  | **274**
 
 ---
 
@@ -27,7 +27,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | SQL Injection               | 11     | 18    |
 | Authentication              | 6      | 14    |
 | Access Control              | 0      | 13    |
-| Path Traversal              | 3      | 6     |
+| Path Traversal              | 6      | 6     |
 | Command Injection           | 0      | 5     |
 | Business Logic              | 0      | 11    |
 | Information Disclosure      | 0      | 5     |
@@ -94,7 +94,10 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 17  | 2026-06-29 |  Authentication     |   Broken brute-force protection, multiple credentials per request     |   🔴 Expert       | —       |
 | 18  | 2026-07-06 |  Path Traversal     |   File path traversal, simple case |   🟢 Apprentice      | —       |
 | 19  | 2026-07-06 |  Path Traversal     |   File path traversal, traversal sequences blocked with absolute path bypass |   🟡 Practitioner      | —       |
-| 20  | 2026-07-06 |  Path Traversal     |   File path traversal, traversal sequences stripped non-recursively |   🟢 Apprentice      | —       |
+| 20  | 2026-07-06 |  Path Traversal     |   File path traversal, traversal sequences stripped non-recursively |   🟡 Practitioner      | —       |
+| 21  | 2026-07-06 |  Path Traversal     |   File path traversal, traversal sequences stripped with superfluous URL-decode |   🟡 Practitioner      | —       |
+| 22  | 2026-07-06 |  Path Traversal     |   File path traversal, validation of start of path |   🟡 Practitioner     | —       |
+| 23  | 2026-07-06 |  Path Traversal     |   File path traversal, validation of file extension with null byte bypass |   🟡 Practitioner      | —       |
 ---
 
 ## Notes & Lessons Learned
