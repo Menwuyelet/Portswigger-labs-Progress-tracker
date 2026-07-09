@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-23-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07-yellow)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-25-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--09-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
 Personal progress tracker for [PortSwigger Web Security Academy](https://portswigger.net/web-security).
@@ -13,10 +13,10 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 
 | Tier         | Solved | Total 
 |--------------|--------|-------
-| 🟢 Apprentice  | 4      | 61    
-| 🟡 Practitioner| 18      | 174  
+| 🟢 Apprentice  | 5      | 61    
+| 🟡 Practitioner| 19      | 174  
 | 🔴 Expert      | 1      | 39    
-| **Total**    | **23**  | **274**
+| **Total**    | **25**  | **274**
 
 ---
 
@@ -28,7 +28,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Authentication              | 6      | 14    |
 | Access Control              | 0      | 13    |
 | Path Traversal              | 6      | 6     |
-| Command Injection           | 0      | 5     |
+| Command Injection           | 2      | 5     |
 | Business Logic              | 0      | 11    |
 | Information Disclosure      | 0      | 5     |
 | File Upload                 | 0      | 6     |
@@ -98,6 +98,8 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 21  | 2026-07-06 |  Path Traversal     |   File path traversal, traversal sequences stripped with superfluous URL-decode |   🟡 Practitioner      | —       |
 | 22  | 2026-07-06 |  Path Traversal     |   File path traversal, validation of start of path |   🟡 Practitioner     | —       |
 | 23  | 2026-07-06 |  Path Traversal     |   File path traversal, validation of file extension with null byte bypass |   🟡 Practitioner      | —       |
+| 24  | 2026-07-09 |  Command Injection     |   OS command injection, simple case |   🟢 Apprentice      | —       |
+| 25  | 2026-07-09 |  Command Injection     |   Blind OS command injection with time delays |   🟡 Practitioner      | —       |
 ---
 
 ## Notes & Lessons Learned
