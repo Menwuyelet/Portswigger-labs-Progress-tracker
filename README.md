@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy — Progress Tracker
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-25-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--09-yellow)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-26-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--11-yellow)
 ![Level](https://img.shields.io/badge/Level-Apprentice-green)
 
 Personal progress tracker for [PortSwigger Web Security Academy](https://portswigger.net/web-security).
@@ -13,10 +13,10 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 
 | Tier         | Solved | Total 
 |--------------|--------|-------
-| 🟢 Apprentice  | 5      | 61    
+| 🟢 Apprentice  | 6      | 61    
 | 🟡 Practitioner| 19      | 174  
 | 🔴 Expert      | 1      | 39    
-| **Total**    | **25**  | **274**
+| **Total**    | **26**  | **274**
 
 ---
 
@@ -29,7 +29,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | Access Control              | 0      | 13    |
 | Path Traversal              | 6      | 6     |
 | Command Injection           | 2      | 5     |
-| Business Logic              | 0      | 11    |
+| Business Logic              | 1      | 11    |
 | Information Disclosure      | 0      | 5     |
 | File Upload                 | 0      | 6     |
 | Server-Side Request Forgery | 0      | 7     |
@@ -100,6 +100,7 @@ Full writeups are reserved for first-time techniques, chained exploits, or scrip
 | 23  | 2026-07-06 |  Path Traversal     |   File path traversal, validation of file extension with null byte bypass |   🟡 Practitioner      | —       |
 | 24  | 2026-07-09 |  Command Injection     |   OS command injection, simple case |   🟢 Apprentice      | —       |
 | 25  | 2026-07-09 |  Command Injection     |   Blind OS command injection with time delays |   🟡 Practitioner      | —       |
+| 26  | 2026-07-11 |  Business Logic     |   Excessive trust in client-side controls |   🟢 Apprentice      | —       |
 ---
 
 ## Notes & Lessons Learned
